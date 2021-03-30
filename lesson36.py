@@ -14,4 +14,3 @@ b = A()
 
 print(A.property1)
 print(a.say_hi('John'))
-print('Bla1')
