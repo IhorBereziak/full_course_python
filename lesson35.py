@@ -18,3 +18,5 @@ while True:
         print('The number must be greater than zero!!!')
     except ValueError:
         print('Must be a number!!!')
+
+print('Bla')
